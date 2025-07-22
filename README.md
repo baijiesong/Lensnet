@@ -7,7 +7,7 @@ This is the official code for "LensNet: An End-to-End Learning Framework for Emp
 
 ### Installation
 ```
-git clone 
+git clone https://github.com/baijiesong/Lensnet.git
 cd Lensnet
 pip install -r requirements.txt
 ```
