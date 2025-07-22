@@ -3,7 +3,8 @@
 
 For the paper, please see {[here](https://arxiv.org/pdf/2505.01755?)}
 
-![image]()
+![image](https://github.com/baijiesong/Lensnet/blob/main/figure1.pdf)
+![image](https://github.com/baijiesong/Lensnet/blob/main/figure2.pdf)
 
 ## Usage
 ### Installation
